@@ -7,7 +7,8 @@ This project is an analysis of New York Citi Bike data, using data visualization
 * Software -Tableau Public ,Jupyter Notebook 
 
 ## Result 
-[Link to dashboard](https://public.tableau.com/views/Bikeride_dashboard1/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to dashboard](https://public.tableau.com/views/Bikeride_dashboard1/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) & 
+[Story](https://public.tableau.com/app/profile/aryam6382/viz/Challenge_deliverable/NYCCityBikestory?publish=yes)
 
 ### New York City Bike Data Visualization for August 2019
 
